@@ -1,0 +1,1 @@
+docker run -p 80:8080 --env-file=env_file fsnd:jwt-api-test
